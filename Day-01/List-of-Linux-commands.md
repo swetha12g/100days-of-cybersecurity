@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/387da83d-e927-4a4a-9af3-9ef26804c1a4)
+![linux-commands-diagram](https://github.com/user-attachments/assets/6495370f-6e53-4bba-abf4-77ed66b5f76a)
+
 # Essential Linux Commands for Cybersecurity Beginners
 
 ## Basic System Navigation and File Operations
