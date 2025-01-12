@@ -61,7 +61,8 @@ a) ECB b) CBC c) GCM d) CFB
 a) Improve system performance b) Minimize potential damage from compromised accounts c) Reduce storage costs d) Speed up user access 
 ## Answer: b) Minimize potential damage from compromised accounts
 # Which of the following is NOT typically part of an IDS? 
-a) Signature detection b) Anomaly detection c) Data encryption d) Alert generation ## Answer: c) Data encryption
+a) Signature detection b) Anomaly detection c) Data encryption d) Alert generation 
+## Answer: c) Data encryption
 # What is the purpose of salt in password hashing? 
 a) Make passwords shorter b) Prevent rainbow table attacks c) Increase password complexity d) Speed up authentication 
 ## Answer: b) Prevent rainbow table attacks
