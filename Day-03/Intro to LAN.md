@@ -3,7 +3,7 @@
 In computer networking, LAN topologies refer to the layout or organizational structure of devices (nodes) in a 
 Local Area Network (LAN). The topology defines how nodes, such as computers, switches, and routers, are connected and how they communicate with each other. The choice of topology affects the network's performance, scalability, cost, and fault tolerance.
 
-## Types of LAN Topologies :
+## Types of LAN Topologies : 
 
 ## Bus Topology :
 
