@@ -1,4 +1,5 @@
 # 100days-of-cybersecurity
+![Screenshot from 2025-01-13 10-36-09](https://github.com/user-attachments/assets/47495823-201e-4fa3-8e9a-c91280c5bcb6)
 
 # Launch 1:
 Foundation Building (Days 1-20)
