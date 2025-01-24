@@ -119,6 +119,14 @@ The **Three-Way Handshake** is a process used in the **Transmission Control Prot
 
   Example:
   - The client sends: `ACK, Seq = x + 1, Ack = y + 1`
+ 
+## Diagram of the Three-Way Handshake
+
+Here's a simple diagram to visualize the handshake process:
+
+
+![image](https://github.com/user-attachments/assets/a697cd3f-7c16-403c-a5d8-016189f534af)
+
 
 ---
 
