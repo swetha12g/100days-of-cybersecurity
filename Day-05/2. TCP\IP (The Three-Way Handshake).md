@@ -1,4 +1,4 @@
-# TCP(Transmission Control Protocol.)
+# TCP/IP(Transmission Control Protocol.)
 
 # Types of Headers in TCP Protocol
 
