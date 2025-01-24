@@ -1,5 +1,7 @@
 # TCP/IP (Transmission Control Protocol.)
 
+**Transmission Control Protocol (TCP)** is a connection-oriented, reliable communication protocol used in computer networks to manage data transmission between devices. It ensures that data is delivered in the correct order, error-free, and without duplication. TCP is one of the core protocols of the Internet Protocol Suite (often referred to as the TCP/IP model), operating primarily at the **transport layer (Layer 4)**.
+
 # Types of Headers in TCP Protocol
 
 In the **TCP (Transmission Control Protocol)** communication process, headers are used to control and manage the connection, ensure the correct order of data, and handle error checking. The **TCP header** is structured to contain multiple fields that facilitate the reliable transmission of data between the sender and receiver. Here’s a breakdown of the types of headers and the fields within the TCP header:
