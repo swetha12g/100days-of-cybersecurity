@@ -22,6 +22,11 @@ It allows devices like computers, smartphones, and tablets to connect with each 
 - **Wireless signals**  
 - **Satellites**
 
+# Diagram of Internet
+
+![image](https://github.com/user-attachments/assets/8254461e-7b16-4520-afe5-ccc18ba594bf)
+
+
 ---
 
 ## Identifying Devices on a Network
