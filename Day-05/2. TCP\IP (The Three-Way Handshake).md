@@ -1,3 +1,5 @@
+# TCP(Transmission Control Protocol.)
+
 # Types of Headers in TCP Protocol
 
 In the **TCP (Transmission Control Protocol)** communication process, headers are used to control and manage the connection, ensure the correct order of data, and handle error checking. The **TCP header** is structured to contain multiple fields that facilitate the reliable transmission of data between the sender and receiver. Here’s a breakdown of the types of headers and the fields within the TCP header:
