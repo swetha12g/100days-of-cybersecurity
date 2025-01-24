@@ -114,6 +114,12 @@ The **OSI Model** (Open Systems Interconnection Model) is a conceptual framework
 ### 7. Application Layer
 **Function**: The Application Layer is the topmost layer that provides services directly to end-users or software applications. It facilitates communication between software applications and the network.
 
+## Diagram of OSI Model
+
+![image](https://github.com/user-attachments/assets/02cbcc3f-4936-4a3d-aee0-5d89160b4541)
+
+---
+
 **Key Features:**
 - Handles application-specific protocols.
 - Manages user authentication and data access.
