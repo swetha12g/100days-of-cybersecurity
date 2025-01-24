@@ -18,15 +18,15 @@ Digital forensics plays a crucial role in solving cybercrimes, intellectual prop
 2. **Forensic Process**
    The forensic process generally follows a standard methodology to ensure the integrity of evidence and its analysis. The steps include:
    
-1.**Identification**: Identify devices, systems, and data sources that may contain relevant digital evidence. This step helps in pinpointing the right areas for investigation.
+   - **Identification**: Identify devices, systems, and data sources that may contain relevant digital evidence. This step helps in pinpointing the right areas for investigation.
 
-2.**Collection**: Gather digital evidence from identified devices or systems in a manner that ensures its integrity. This step involves securing and documenting the evidence to maintain a clear chain of custody.
+   - **Collection**: Gather digital evidence from identified devices or systems in a manner that ensures its integrity. This step involves securing and documenting the evidence to maintain a clear chain of custody.
 
-3.**Preservation**: Ensure evidence is not altered or tampered with by creating forensic copies or images of the data. This safeguards the integrity of the evidence for later analysis.
+   - **Preservation**: Ensure evidence is not altered or tampered with by creating forensic copies or images of the data. This safeguards the integrity of the evidence for later analysis.
 
-4.**Analysis**: Examine and evaluate the collected evidence to uncover patterns, actions, or events. This step includes recovering deleted files and identifying significant data.
+   - **Analysis**: Examine and evaluate the collected evidence to uncover patterns, actions, or events. This step includes recovering deleted files and identifying significant data.
 
-5.**Presentation**: Present the findings in a clear and understandable manner for law enforcement, courts, or clients. This can involve expert testimony, reports, and visual aids.
+   - **Presentation**: Present the findings in a clear and understandable manner for law enforcement, courts, or clients. This can involve expert testimony, reports, and visual aids.
 
 ![image](https://github.com/user-attachments/assets/0d25d395-42d1-4f66-a960-01b3c7d624b5)
 
