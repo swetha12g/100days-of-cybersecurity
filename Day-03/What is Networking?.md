@@ -5,7 +5,12 @@
 **Networking** refers to the practice of connecting multiple devices, such as computers, servers, routers, and other hardware, in order to share data, resources, and services.  
 The goal of networking is to enable communication between devices and to allow them to exchange information over various distances, whether:  
 - **Locally**: Within a single building or campus.  
-- **Globally**: Across the internet.  
+- **Globally**: Across the internet.
+
+# Diagram of Networking
+
+![image](https://github.com/user-attachments/assets/5975f55c-2446-4fff-92c1-b9595df6a6e8)
+
 
 ---
 
