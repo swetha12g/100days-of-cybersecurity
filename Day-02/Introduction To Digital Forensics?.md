@@ -31,6 +31,7 @@ Digital forensics plays a crucial role in solving cybercrimes, intellectual prop
 ![image](https://github.com/user-attachments/assets/0d25d395-42d1-4f66-a960-01b3c7d624b5)
 
 
+
 3. **Types of Digital Forensics**
    Digital forensics encompasses various sub-disciplines, each focused on a different type of data or device:
    
