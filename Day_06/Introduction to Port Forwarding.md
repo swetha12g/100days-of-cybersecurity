@@ -1,0 +1,49 @@
+# Introduction to Port Forwarding
+
+## What is Port Forwarding?
+Port forwarding is a networking technique that allows external devices to access services on a private network. It is commonly used to enable remote access to web servers, gaming servers, security cameras, and other devices behind a router or firewall.
+
+## How Does Port Forwarding Work?
+When an external request reaches a router on a specific port, the router forwards the request to a designated internal device based on predefined rules. This process allows communication between external and internal networks without exposing the entire internal network.
+
+## Common Use Cases
+- **Remote Access**: Accessing a home computer, security camera, or IoT device remotely.
+- **Hosting Services**: Running web servers, game servers, or FTP servers accessible from the internet.
+- **P2P Applications**: Enabling better connectivity for applications like torrent clients and VoIP services.
+
+## Types of Port Forwarding
+1. **Static Port Forwarding**: A fixed mapping of an external port to an internal IP and port.
+2. **Dynamic Port Forwarding**: Used mainly with SSH tunneling to route traffic securely.
+3. **UPnP & NAT-PMP**: Protocols that allow automatic port forwarding configurations for applications.
+
+## How to Set Up Port Forwarding
+1. **Log in to Your Router**: Access your router’s web interface (usually via `192.168.1.1` or `192.168.0.1`).
+2. **Find Port Forwarding Settings**: Look under advanced settings or NAT configurations.
+3. **Create a New Port Forwarding Rule**:
+   - Choose an external port (e.g., `8080` for web access).
+   - Enter the internal device’s IP address (e.g., `192.168.1.100`).
+   - Assign the internal port (e.g., `80` for a web server).
+4. **Save and Apply Changes**: Restart your router if necessary.
+5. **Test Connectivity**: Use tools like `canyouseeme.org` or `telnet` to verify accessibility.
+
+## Security Considerations
+- **Use Strong Authentication**: Ensure that only authorized users can access forwarded ports.
+- **Limit IP Access**: Restrict access to specific IPs where possible.
+- **Enable Firewall Rules**: Configure your firewall to allow traffic only for necessary services.
+- **Use a VPN**: Instead of exposing ports, a VPN can securely tunnel traffic.
+
+## Troubleshooting Common Issues
+- **Port Not Open**: Check if your ISP blocks certain ports.
+- **Incorrect Internal IP**: Ensure the correct device IP is used.
+- **Firewall Blocking Traffic**: Verify that the firewall allows external connections.
+- **Double NAT Issues**: If behind multiple routers, configure port forwarding on both.
+
+## Conclusion
+Port forwarding is a powerful tool that enables remote access and hosting capabilities within private networks. However, proper security measures must be in place to prevent unauthorized access and cyber threats.
+
+---
+
+### Further Reading
+- [How to Set Up Port Forwarding (Example)](https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/)
+- [NAT and Port Forwarding Explained](https://en.wikipedia.org/wiki/Port_forwarding)
+- [Security Best Practices](https://www.cisa.gov/)
