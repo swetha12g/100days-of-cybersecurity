@@ -1,5 +1,3 @@
-Defensive-Cyber-Security.md
-
 
 I've created 50 intermediate-level multiple choice questions focused on defensive cybersecurity. The questions cover various important topics including:
 
